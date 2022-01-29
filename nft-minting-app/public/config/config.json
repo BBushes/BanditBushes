@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0dd11614b933e08e188e47f516118427930ecbb3",
+  "SCAN_LINK": "https://polygonscan.com/token/0x0dd11614b933e08e188e47f516118427930ecbb3",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Bandit Bushes",
+  "SYMBOL": "BUSHNFT",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/bbush",
+  "SHOW_BACKGROUND": true
+}
